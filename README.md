@@ -17,4 +17,4 @@ saved books screenshot:
 
 here is the link to the repo [mern-book-search-engine/repo] (https://github.com/Jasonsburke90/mern-book-search-engine)
 
-here is the link to the heroku app [mern-book-search-engine/heroku] ()
+here is the link to the heroku app [mern-book-search-engine/heroku] (https://mern-book-search-app-jsb.herokuapp.com/)
